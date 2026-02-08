@@ -1,0 +1,3 @@
+# Use TensorFlow 2.15 for built-in tf.keras (avoids standalone keras/h5py issues)
+tensorflow>=2.15,<2.16
+matplotlib>=3.5
